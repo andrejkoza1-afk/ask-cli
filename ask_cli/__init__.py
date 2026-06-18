@@ -1,0 +1,3 @@
+"""ask — AI terminal assistant."""
+
+__version__ = "0.1.0"
